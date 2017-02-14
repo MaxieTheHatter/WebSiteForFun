@@ -4,6 +4,15 @@ body {
 	height: 1000px;
 }
 
+code {
+	display: block;
+	background-color: black;
+	color: #7FFF00;
+	padding: 10px 10px 10px 10px;
+	border: 2px solid gray;
+	border-radius: 5px;
+}
+
 h1 {
 	color: green;
 	font-family: Impact, Charcoal, sans-serif;
